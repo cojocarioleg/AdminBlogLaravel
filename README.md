@@ -7,4 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+This is an individual project created for the purpose of implementing admin panel in Larave9.
+In this project are implemented several principles from Laravel:
+1. Relationship: One To One, One To Many, Many To Many, One To Many (Inverse) / Belongs To,
+2. Working with the posts: add new post, delete and edit this post, add and to delete the image of the post, ect.
+3. Slug or link it is generated automatically.
+4. logging and registration principles are implemented.
+5. ect...
 
